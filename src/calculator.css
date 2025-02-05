@@ -41,6 +41,7 @@ body {
 .calculator span:active {
   background: rgb(255, 163, 26);
   color: #fff;
+  cursor: pointer;
 }
 
 .calculator span.clear {
